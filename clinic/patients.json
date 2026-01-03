@@ -1,0 +1,1 @@
+{"12345": {"__type__": "Patient", "phn": 12345, "name": "Julia", "dob": "2005-10-06", "phone": "2507405197", "email": "juliaottenbreit@uvic.ca", "address": "123 street"}, "54321": {"__type__": "Patient", "phn": 54321, "name": "Isabelle", "dob": "2005-12-29", "phone": "2508907654", "email": "ivaliquette@uvic.ca", "address": "123 ave"}}

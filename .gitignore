@@ -1,0 +1,16 @@
+# virtual environment
+venv/
+
+# tests
+tests/
+
+# python cache
+__pycache__/
+*.pyc
+
+# user data (credentials)
+users.txt
+
+# OS files
+.DS_Store
+
